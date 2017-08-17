@@ -1,2 +1,108 @@
-/* this is our common css stylesheet */
-/* please don't forget to push your code */
+/* css Yué */
+
+/* css Yue part CAMBRIDGE --> Order Reprints| Today's Paper| Subscribe */
+
+
+.story-body-1 {
+   font-family: georgia;
+   font-style: normal;
+   font-size: 1.0625rem;
+   line-height: 1.625rem;
+   font-weight: 400;
+   color: rgb(51, 51, 51);
+   text-decoration;
+   text-align: left;
+   width: 570px;
+   margin-left: 60px;
+   margin-right: 0;
+   max-width: none;
+   border:
+}
+
+/* the theory of inflation schema + legendes */
+
+.theory-of-inflation{
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  font-weight: 400;
+  font-style: normal;
+  font-family: "nyt-cheltenham-sh",georgia,"times new roman",times,serif;
+  margin-bottom: 10px;
+  margin-left: 30px;
+  color: #666;
+}
+
+.story-body-3 {
+   font-family: georgia;
+   font-style: normal;
+   font-size: 1.0625rem;
+   line-height: 1.625rem;
+   font-weight: 400;
+   color: rgb(51, 51, 51);
+   text-decoration;
+   text-align: left;
+   width: 570px;
+   margin-left: 60px;
+   margin-right: 0;
+   max-width: none;
+   border:
+}
+
+/* The Bicep2 telescope */
+.image{
+  margin-left: 30px;
+}
+
+.caption{
+  font-size: 0.8125rem;
+  line-height: 1.0625rem;
+  font-weight: 300;
+  font-style: normal;
+  font-family: "nyt-cheltenham-sh",georgia,"times new roman",times,serif;
+  max-width: 100%;
+  color: #666;
+}
+
+.story-body-4 {
+   font-family: georgia;
+   font-style: normal;
+   font-size: 1.0625rem;
+   line-height: 1.625rem;
+   font-weight: 400;
+   color: rgb(51, 51, 51);
+   text-decoration;
+   text-align: left;
+   width: 570px;
+   margin-left: 60px;
+   margin-right: 0;
+   max-width: none;
+   border:
+}
+
+.story-body-5 {
+   font-family: georgia;
+   font-style: normal;
+   font-size: 1.0625rem;
+   line-height: 1.625rem;
+   font-weight: 400;
+   color: rgb(51, 51, 51);
+   text-decoration;
+   text-align: left;
+   width: 570px;
+   margin-left: 60px;
+   margin-right: 0;
+   max-width: none;
+   border:
+}
+
+.story-meta{
+  font-family: "nyt-franklin",arial,helvetica,sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 300;
+  font-style: normal;
+  color: #999;
+  line-height: 0.9375rem;
+  margin-left: 60px;
+  margin-right: 0;
+}
+
